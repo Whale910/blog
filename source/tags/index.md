@@ -17,6 +17,6 @@ Here you can find information about how tags are used in our blog. Tags help org
 ## Example Tags
 
 - [Hexo](/about/)
-- {% post_link Hello-World 你好 %}
+- {% post_link Pinsker-Inequality 你好 %}
 
 Feel free to explore and enjoy our tagged content!
