@@ -102,5 +102,6 @@ theme: hexo-theme-icalm
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@whale0910.top:/www/repo/hexo.git
+  repo: git@github.com:Whale910/Whale910.github.io.git
+  # repo: git@whale0910.top:/www/repo/hexo.git
   branch: main
