@@ -105,3 +105,7 @@ deploy:
   repo: git@github.com:Whale910/Whale910.github.io.git
   # repo: git@whale0910.top:/www/repo/hexo.git
   branch: main
+
+mathjax:
+  enable: true
+
